@@ -3,9 +3,9 @@ document.addEventListener('DOMContentLoaded', () => {
     
     const cashAppLinks = {
         'Zech': 'https://cash.app/$Pugls',
-        'Colby': 'https://cash.app/$Colby',
-        'Justin': 'https://cash.app/$Justin',
-        'Charles': 'https://cash.app/$Charles'
+        'Colby': 'https://wedonthaveyet.com',
+        'Justin': 'https://wedonthaveyet.com',
+        'Charles': 'https://wedonthaveyet.com'
     };
 
     const transitions = {
